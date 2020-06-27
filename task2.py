@@ -1,1 +1,1 @@
-printf("hello is will work")
+print("hello is will work")
